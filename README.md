@@ -1,1 +1,1 @@
-# Fake-news-prediction
+# Fake-News-Prediction
