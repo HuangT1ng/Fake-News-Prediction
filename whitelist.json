@@ -1,0 +1,40 @@
+{
+    "sources": [
+        {
+            "name": "BBC News",
+            "url": "https://www.bbc.com",
+            "country": "UK",
+            "type": "Global news, documentaries, and analysis"
+        },
+        {
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "country": "UK",
+            "type": "Breaking news, business, and international news"
+        },
+        {
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com",
+            "country": "USA",
+            "type": "In-depth journalism, investigative reporting"
+        },
+        {
+            "name": "Associated Press",
+            "url": "https://apnews.com",
+            "country": "USA",
+            "type": "Wire service providing global news coverage"
+        },
+        {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com",
+            "country": "Qatar",
+            "type": "International news coverage, especially from the Middle East"
+        },
+        {
+            "name": "The Guardian",
+            "url": " https://www.theguardian.com",
+            "country": "UK",
+            "type": "Investigative journalism, politics, and culture"
+        }
+    ]
+}
